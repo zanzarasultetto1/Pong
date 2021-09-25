@@ -3,7 +3,7 @@ I remade a my personal pong game with better Graphics and AI. It can be played a
 
 Requirements:
   - python3
-  - pygame
+  - pygame (pip install pygame)
   
 Commands:
   - WASD and Arrow Keys to go up and down
